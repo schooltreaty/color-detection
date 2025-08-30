@@ -58,7 +58,7 @@ Install dependencies:
 pip install opencv-python numpy pygame
 
 
-Usage
+## Usage
 
 Run the HSV calibration tool (optional, recommended for best results):
 python calibrate_hsv.py
